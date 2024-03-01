@@ -1,4 +1,4 @@
-[![MasterHead](https://www.itsasap.com/hs-fs/hubfs/cybersecurity%20framework.gif?width=778&name=cybersecurity%20framework.gif)](https://rishavchanda.io)
+[![MasterHead](cybersecurity framework.webp)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Baba Sekhar</h1>
 <h3 align="center">"Fortifying Code, Protecting Dreams: Defenders of 🧑‍💻Cyber Sanctity."</h3>
 <img align="right" alt="Hacking" width="400" src="https://medium.com/@avijain1001/my-journey-towards-the-path-of-cyber-security-and-ahead-e7b9a0b69089">

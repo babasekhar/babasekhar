@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **babasekhar31@gmail.com**
 
-- ⚡ Fun fact **Why was the computer cold? Because it left its Windows open!**
+- ⚡ Fun fact **The first computer virus, the "Creeper," simply displayed the message "I'm the Creeper, catch me if you can!" in the 1970s.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

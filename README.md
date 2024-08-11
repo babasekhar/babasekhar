@@ -42,8 +42,29 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babasekhar&show_icons=true&locale=en&layout=compact" alt="babasekhar" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babasekhar&show_icons=true&locale=en" alt="babasekhar" /></p>
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=babasekhar&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babasekhar&" alt="babasekhar" /></p>
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=babasekhar&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=babasekhar&theme=radical" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>

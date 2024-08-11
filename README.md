@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/babasekhar2121" target="blank"><img src="https://img.shields.io/twitter/follow/babasekhar2121?logo=twitter&style=for-the-badge" alt="babasekhar2121" /></a> </p>
 
-- 🔭 I’m currently working on **Cyber Defence framework using GEN AI**<br>
+- 🔭 I’m currently working on **Cyber Defence framework with GEN-AI**<br>
 - 🌱 I’m currently learning **Cyber Stuff, Python, Java, DSA**<br>
 - 👨‍💻 All of my projects are available at [Baba Sekhar](https://github.com/babasekhar)<br>
 - 💬 Ask me about **Anything that I can able to answer**<br>

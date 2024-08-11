@@ -1,7 +1,7 @@
 <img alt="Banner" width="5000" src="cybersecurity framework.webp">
 <h1 align="center">Hi 👋, I'm Baba Sekhar <img height="40" alt="" src="https://tenor.com/view/hack-hacker-hacking-hacked-matrix-gif-26623817"/></h1>
 <h3 align="center">"Fortifying Code, Protecting Dreams: Defenders of 🧑‍💻Cyber Sanctity."</h3>
-<img align="right" alt="Hacking" width="350" src="cybercomputer.gif">
+<img align="right" alt="Hacking" width="200" src="cybercomputer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babasekhar&label=Profile%20views&color=0e75b6&style=flat" alt="babasekhar" /> </p>
 

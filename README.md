@@ -1,5 +1,5 @@
 <img alt="Banner" width="5000" src="cybersecurity framework.webp">
-<h1 align="center">Hi 👋, I'm Baba Sekhar</h1>
+<h1 align="center">Hi 👋, I'm Baba Sekhar <img height="40" alt="" src="https://tenor.com/view/hack-hacker-hacking-hacked-matrix-gif-26623817"/></h1>
 <h3 align="center">"Fortifying Code, Protecting Dreams: Defenders of 🧑‍💻Cyber Sanctity."</h3>
 <img align="right" alt="Hacking" width="400" src="cybercomputer.gif">
 
@@ -7,17 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/babasekhar2121" target="blank"><img src="https://img.shields.io/twitter/follow/babasekhar2121?logo=twitter&style=for-the-badge" alt="babasekhar2121" /></a> </p>
 
-- 🔭 I’m currently working on **Education RouteMap**
-
-- 🌱 I’m currently learning **Cyber Stuff, Python, DSA**
-
-- 👨‍💻 All of my projects are available at [Baba Sekhar](https://github.com/babasekhar)
-
-- 💬 Ask me about **Anything that I can able to answer**
-
-- 📫 How to reach me **[Mail me Here](babasekhar31@gmail.com)**
-
-- ⚡ Fun fact **The first computer virus, the "Creeper," simply displayed the message "I'm the Creeper, catch me if you can!" in the 1970s.**
+- 🔭 I’m currently working on **Cyber Defence framework using GEN AI**<br>
+- 🌱 I’m currently learning **Cyber Stuff, Python, Java, DSA**<br>
+- 👨‍💻 All of my projects are available at [Baba Sekhar](https://github.com/babasekhar)<br>
+- 💬 Ask me about **Anything that I can able to answer**<br>
+- 📫 How to reach me **[Mail me Here](babasekhar31@gmail.com)**<br>
+- ⚡ Fun fact **The first computer virus, the "Creeper," simply displayed the message "I'm the Creeper, catch me if you can!" in the 1970s.**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

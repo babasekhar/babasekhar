@@ -14,7 +14,7 @@
 - 📫 How to reach me **[Mail me Here](babasekhar31@gmail.com)**<br>
 - ⚡ Fun fact **The first computer virus, the "Creeper," simply displayed the message "I'm the Creeper, catch me if you can!" in the 1970s.**<br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:-</h3>
 <p align="left">
 <a href="https://twitter.com/babasekhar2121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="babasekhar2121" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/baba-sekhar-779b15245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/baba-sekhar-779b15245/" height="30" width="40" /></a>

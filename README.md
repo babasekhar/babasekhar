@@ -1,5 +1,5 @@
 <img alt="Banner" width="5000" src="cybersecurity framework.webp">
-<h1 align="center">Hi 👋, I'm Baba Sekhar <img height="40" alt="" src="https://tenor.com/view/hack-hacker-hacking-hacked-matrix-gif-26623817"/></h1>
+<h1 align="center">Hi 👋, I'm Sekhar <img height="40" alt="" src="https://tenor.com/view/hack-hacker-hacking-hacked-matrix-gif-26623817"/></h1>
 <h3 align="center">"Fortifying Code, Protecting Dreams: Defenders of 🧑‍💻Cyber Sanctity."</h3>
 <img align="right" alt="Hacking" width="350" src="cybercomputer.gif">
 
